@@ -36,7 +36,7 @@ const MinerNode = ({ data }: { data: { label: string } }) => (
   <div
     style={{
       padding: "10px",
-      background: "yellow",
+      background: "lightblue",
       borderRadius: "5px",
       textAlign: "center",
       border: "1px solid black",
